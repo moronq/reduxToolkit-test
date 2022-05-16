@@ -21,7 +21,7 @@ const Comments = () => {
     let content
 
     if (status === 'succeeded'){
-        content = comments.map((el, index)=><Message key={index} post={el}/>)
+        content = comments.map((el, index)=><Message key={el.id} post={el}/>)
     } else if (status === 'loading') {
         content = <p>Загрузка...</p>
     } else if (status === 'failed')

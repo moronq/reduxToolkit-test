@@ -55,8 +55,7 @@ export const counterSlice = createSlice({
 })
 
 export const fetchComments = createAsyncThunk('comments/fetchComments', async (numberPost: number)=>{
-    const response = await CommentsAPI.getComments(numberPost)
-    return (response)
+    return await CommentsAPI.getComments(numberPost)
 })
 
 export default counterSlice.reducer
