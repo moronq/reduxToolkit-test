@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f585dcfb-f5ca-415b-8e61-ffbc495f7e18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28spno1RmLox00Z0jbzGapmrA4x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Users\Moronq\Desktop\Frontend\test-app-ts\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Moronq\Desktop\Frontend\test-app-ts\src\Components\CounterComponent" />
+      <recent name="C:\Users\Moronq\Desktop\Frontend\test-app-ts\src\Components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f585dcfb-f5ca-415b-8e61-ffbc495f7e18" name="Default Changelist" comment="" />
+      <created>1652015316646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652015316646</updated>
+      <workItem from="1652015324848" duration="326000" />
+      <workItem from="1652018760759" duration="85000" />
+      <workItem from="1652019331448" duration="2316000" />
+      <workItem from="1652385109945" duration="597000" />
+      <workItem from="1652465318860" duration="1483000" />
+      <workItem from="1652466907122" duration="3535000" />
+      <workItem from="1652532376872" duration="1631000" />
+      <workItem from="1652536442887" duration="243000" />
+      <workItem from="1652645528532" duration="604000" />
+      <workItem from="1652724634248" duration="5955000" />
+      <workItem from="1652731951752" duration="1814000" />
+      <workItem from="1652733909741" duration="3655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="328" key="#ESLint" timestamp="1652015475107">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="638" y="328" key="#ESLint/0.0.1536.834@0.0.1536.834" timestamp="1652015475107" />
+    <state x="500" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652466326377">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="500" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1652466326377" />
+    <state x="438" y="196" key="EditFileWatcherDialog" timestamp="1652466454957">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="438" y="196" key="EditFileWatcherDialog/0.0.1536.834@0.0.1536.834" timestamp="1652466454957" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1652018845821">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1652018845821" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1652726158584">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1652726158584" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1652730829057">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1652730829057" />
+  </component>
+</project>
